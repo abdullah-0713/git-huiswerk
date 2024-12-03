@@ -15,6 +15,7 @@ header{
     background-repeat: no-repeat;
     background-position: 0px -180px;
     background-size: cover;
+    height: 600px;
 
 }
 
@@ -120,7 +121,7 @@ h2{
 
 .callcenter2{
     width: 900px;
-    height: 100%;
+
     margin-left: auto;
     margin-right: auto;
     text-align: left;
@@ -155,8 +156,8 @@ h2{
 .details{
     width: 900px;
     height: auto;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
     font-size: 1vw;
 }
 summary{
